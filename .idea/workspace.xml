@@ -35,6 +35,7 @@
     <setting file="file://$PROJECT_DIR$/src/main/java/se/yrgo/ToDoList.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/main/java/se/yrgo/User.java" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/test/java/se/yrgo/TaskTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/se/yrgo/TodoListTest.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -62,7 +63,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.testRunning",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -75,7 +76,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.TaskTest">
+  <component name="RunManager" selected="TestNG.TodoListTest">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main.Main" />
       <module name="TodoList" />
@@ -106,8 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TodoListTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TodoList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="se.yrgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="se.yrgo" />
+      <option name="MAIN_CLASS_NAME" value="se.yrgo.TodoListTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TodoListTest" />
         <item itemvalue="TestNG.TaskTest" />
         <item itemvalue="Application.Main" />
       </list>
@@ -130,7 +149,7 @@
       <option name="presentableId" value="Default" />
       <updated>1741694073888</updated>
       <workItem from="1741694080421" duration="3720000" />
-      <workItem from="1741699414749" duration="1673000" />
+      <workItem from="1741699414749" duration="1952000" />
     </task>
     <servers />
   </component>
