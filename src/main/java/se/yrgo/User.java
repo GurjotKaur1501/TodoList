@@ -1,3 +1,5 @@
+package se.yrgo;
+
 public class User {
     private String username;
 

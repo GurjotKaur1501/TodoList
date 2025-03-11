@@ -1,3 +1,6 @@
+package se.yrgo;
+
+import se.yrgo.Task;
 import java.util.ArrayList;
 import java.util.List;
 
