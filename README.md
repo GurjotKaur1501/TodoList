@@ -2,7 +2,7 @@
 ## Installation
 
 För Bash:
-git clone https://github.com/ditt-konto/TodoApp.git
+git clone https://github.com/GurjotKaur1501/TodoList.git
 cd TodoApp
 mvn clean install
 java -jar target/TodoApp-1.0-SNAPSHOT.jar
