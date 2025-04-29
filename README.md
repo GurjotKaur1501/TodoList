@@ -3,9 +3,9 @@
 
 För Bash:
 git clone https://github.com/GurjotKaur1501/TodoList.git
-cd TodoApp
+cd TodoList
 mvn clean install
-java -jar target/TodoApp-1.0-SNAPSHOT.jar
+java -jar target/TodoList-1.0-SNAPSHOT.jar
 
 .. Hur kan man skapa en trigger i Jenkins så att varje gång någon pushar till ert 
     centrala repo (github), så byggs projektet?
